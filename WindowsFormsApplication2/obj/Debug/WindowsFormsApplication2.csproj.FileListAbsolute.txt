@@ -1,0 +1,19 @@
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.exe.config
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.exe
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.pdb
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main_form.resources
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.Properties.Resources.resources
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.exe
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.pdb
+c:\users\teo\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main_form.resources
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.Properties.Resources.resources
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.exe
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Onomatizer.pdb
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.exe.config
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.exe
+C:\Users\egw\Documents\projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Onomatizer.pdb

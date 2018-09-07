@@ -1,0 +1,15 @@
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Main_form.resources
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayment renamer.csproj.GenerateResource.Cache
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.exe.config
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments.Properties.Resources.resources
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.exe.manifest
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.application
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.pdb
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.exe.manifest
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.application
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.exe
+C:\Users\Teo\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.pdb
+C:\Users\egw\Documents\Visual Studio 2015\pr\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\epayments renamer.exe.config
+C:\Users\egw\Documents\Visual Studio 2015\pr\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.exe
+C:\Users\egw\Documents\Visual Studio 2015\pr\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\epayments renamer.pdb
